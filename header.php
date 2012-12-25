@@ -30,6 +30,9 @@
 
 	?></title>
 	
+	<!-- description -->
+	<meta name="description" content="<?php bloginfo('description'); ?>" />
+	
 	<!--  Mobile Viewport Fix -->
 	<meta name="viewport" content="initial-scale=1.0">
     
